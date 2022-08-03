@@ -26,4 +26,5 @@ Werkzeug
 wincertstore
 pep517
 h5py
+libhdf5.so
 gunicorn
