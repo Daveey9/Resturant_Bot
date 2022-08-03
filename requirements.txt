@@ -25,4 +25,5 @@ tflearn==0.3.2
 Werkzeug
 wincertstore
 pep517
+h5py
 gunicorn
