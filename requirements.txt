@@ -23,4 +23,6 @@ tensorflow-estimator
 termcolor==1.1.0
 tflearn==0.3.2
 Werkzeug
+wincertstore
+pep517
 gunicorn
