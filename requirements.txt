@@ -22,6 +22,6 @@ tensorflow==2.9.1
 tensorflow-estimator
 termcolor==1.1.0
 tflearn==0.3.2
-Werkzeug==0.16.0
+Werkzeug
 wincertstore==0.2
 gunicorn
